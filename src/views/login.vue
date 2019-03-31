@@ -1,0 +1,25 @@
+<template>
+    <div>
+        <div>
+            <dl>
+                <dt>
+                    <a>衣服</a>
+                </dt>
+                <dd>
+                    <a>裤子</a>
+                    <a>外套</a>
+                </dd>
+            </dl>
+            <dl>
+                <dt>
+                    <a>衣服</a>
+                </dt>
+                <dd>
+                    <a>裤子</a>
+                    <a>外套</a>
+                </dd>
+            </dl>
+        </div>
+        
+    </div>
+</template>
